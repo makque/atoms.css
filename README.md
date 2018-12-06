@@ -1,4 +1,4 @@
 # Atoms.css
 
 CDN
-https://cdn.rawgit.com/makque/atoms.css/master/dist/css/atoms.css
+https://cdn.jsdelivr.net/gh/makque/atoms.css/dist/css/atoms.css
